@@ -4,7 +4,6 @@ $(document).foundation();
 
 $(window).scroll(function (event) {
     var scroll = $(window).scrollTop();
-    console.log(scroll);
 
     if (scroll>10) {
     	$("#navbar").css("border-bottom", "1px solid #999")
