@@ -9055,13 +9055,21 @@ th.hide-for-touch {
 
 /* Extra shit added by Carmody */
 
+#navbar {
+  max-width: 100%;
+  position: fixed;
+  top:0;
+  z-index: 100;
+}
+
 #banner {
   border: 0px;
+  margin-top: 50px;
 }
 
 #detail {
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin-top: 0px;
+  margin-bottom: 50px;
   padding-top: 10px;
 }
 
