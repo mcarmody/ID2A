@@ -9064,7 +9064,7 @@ th.hide-for-touch {
 
 #banner {
   border: 0px;
-  margin-top: 50px;
+  margin-top: 60px;
 }
 
 #detail {
@@ -9075,4 +9075,6 @@ th.hide-for-touch {
 
 #footer {
   border: 0px;
+  padding-bottom: 5px;
+  padding-top: 5px;
 }
